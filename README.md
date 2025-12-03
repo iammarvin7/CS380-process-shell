@@ -1,6 +1,6 @@
 # 🖥️ OS Process Shell — CS380 Project
 
-_Author: Marvin Chaudhary (G / Marv)_  
+_Author: Marvin Chaudhary, Nidah Fariha  
 _Class: CS380 Operating Systems_  
 _Instructor: Dr. Shuja_
 
