@@ -6,6 +6,11 @@ _Instructor: Dr. Shuja_
 
 ---
 
+## DEMO
+You can checkout the demo video of this project in **"CS380 Demo.mov"** in the Repo
+
+---
+
 ## 📌 Overview
 
 This project is an implementation of a miniature Unix-like **shell** in C, following the “processes-shell” specification from the OSTEP project library.
