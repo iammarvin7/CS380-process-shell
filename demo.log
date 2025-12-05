@@ -1,0 +1,196 @@
+Script started on Fri Dec  5 11:40:41 2025
+[0m[38;5;238m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m[38;5;238m·······················································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 11:40:41 AM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m                                                                                                                            [0m[38;5;238m[49m[39m[38;5;238m─╯[0m[38;5;238m[49m[39m[27m[24m[3C[?2004h[?25l8[0m[49m[39m[27m[24m[J]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[38;5;254m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                                                                 [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?3[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 11:40:41 AM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?25h[?2004h../seh  hell[?1l>[?2004l
+]2;./shell]1;./shellosh> pwd
+/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell
+osh> ls
+Makefile					out.txt
+Processes Shell — Presentation (cs380).docx	presentation_assets
+README.md					shell
+demo.log					src
+design_notes.md					test-wish.sh
+file.txt					tests
+include
+osh> echo "hello wordl  ld" > out.txt
+osh> cat < out.txt
+hello world
+osh> echo -e "one\ntwo\nthree" | we -l^[[D^[[D            c -l
+       1
+osh> sleep 5 &
+[bg] 4559
+osh> jobs
+[1] 4559  Running  (sleep 5 )
+osh> |
+osh: syntax error near unexpected token '|'
+osh> 
+osh> 
+osh> 
+osh> 
+osh> 
+osh> 
+osh> cat > demo.txt << "EOF"
+open infile: No such file or directory
+osh> cat > demo.tst <<       _cmds.txt <<'EOF'
+open infile: No such file or directory
+osh> pwd
+/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell
+osh> sleep 3 &
+[bg] 4580
+osh> jobs
+[2] 4580  Done  (sleep 3 )
+[1] 4559  Done  (sleep 5 )
+osh> EOF
+osh: command not found: EOF
+osh> 
+osh> cat >file.txt << EOF
+open infile: No such file or directory
+osh> ^[[A\     cat > file.txt << EOF
+open infile: No such file or directory
+osh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?3[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m···························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 5m 46s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 11:46:39 AM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h[7mcat > demo_cmds.txt << 'EOF'[27m
+[K[A[3C[27mc[27ma[27mt[27m [27m>[27m [27md[27me[27mm[27mo[27m_[27mc[27mm[27md[27ms[27m.[27mt[27mx[27mt[27m [27m<[27m<[27m [27m'[27mE[27mO[27mF[27m'[1B[K[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004hppwd[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004h[7mecho "hello world" > out.txt[27m[28D[27me[27mc[27mh[27mo[27m [27m"[27mh[27me[27ml[27ml[27mo[27m [27mw[27mo[27mr[27ml[27md[27m"[27m [27m>[27m [27mo[27mu[27mt[27m.[27mt[27mx[27mt[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004hccat < ot ut.txt[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004h[7mecho -e "one\ntwo\nthree" | wc -l[27m[33D[27me[27mc[27mh[27mo[27m [27m-[27me[27m [27m"[27mo[27mn[27me[27m\[27mn[27mt[27mw[27mo[27m\[27mn[27mt[27mh[27mr[27me[27me[27m"[27m [27m|[27m [27mw[27mc[27m [27m-[27ml[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004h[7msleep 3 &[27m
+[K[A[9C[27ms[27ml[27me[27me[27mp[27m [27m3[27m [27m&[1B[K[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004hjjobs[?1l>[?2004l
+[0m[27m[24m[Jheredoc> [K[?1h=[?2004hEEOF[?1l>[?2004l
+]2;cat > demo_cmds.txt <<<'']1;cat[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 11:47:47 AM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h[7m./shell < demo_cmds.txt[27m[23D[27m.[27m/[27ms[27mh[27me[27ml[27ml[27m [27m<[27m [27md[27me[27mm[27mo[27m_[27mc[27mm[27md[27ms[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;./shell < demo_cmds.txt]1;./shellosh> osh> /Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell
+osh> osh> hello world
+osh>        1
+osh> [bg] 4692
+osh> osh> [1] 4692  Running  (sleep 3 )
+osh> 
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 11:49:32 AM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h../shell[?1l>[?2004l
+]2;./shell]1;./shellosh> lepp      sleep 20 &
+[bg] 4829
+osh> jobs
+[1] 4829  Done  (sleep 20 )
+osh> ps -o pid,pgid,tty,stat,command
+  PID  PGID TTY      STAT COMMAND
+ 3751  3751 ttys000  S    -zsh
+ 3757  3756 ttys000  S    -zsh
+ 4209  4208 ttys000  S    -zsh
+ 4210  4208 ttys000  S    -zsh
+ 4212  3756 ttys000  S    /Users/marvinchaudhary/.cache/gitstatus/gitstatusd-darwin-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -
+ 4244  4244 ttys000  S    ./shell
+ 4272  4272 ttys000  S+   script demo.log
+ 4273  4273 ttys001  Ss   /bin/zsh -i
+ 4278  4277 ttys001  S    /bin/zsh -i
+ 4527  4526 ttys001  S    /bin/zsh -i
+ 4528  4526 ttys001  S    /bin/zsh -i
+ 4530  4277 ttys001  S    /Users/marvinchaudhary/.cache/gitstatus/gitstatusd-darwin-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -
+ 4820  4820 ttys001  S    ./shell
+ 3428  3428 ttys002  Ss   /bin/zsh -i
+ 3433  3432 ttys002  S    /bin/zsh -i
+ 3683  3682 ttys002  S    /bin/zsh -i
+ 3684  3682 ttys002  S    /bin/zsh -i
+ 3686  3432 ttys002  S    /Users/marvinchaudhary/.cache/gitstatus/gitstatusd-darwin-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -
+ 3690  3690 ttys002  S    ./shell
+ 3720  3720 ttys002  T+   sleep 20
+osh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 1h 1m 42s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 01:02:08 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake clean[?1l>[?2004l
+]2;make clean]1;makerm -f shell
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!3 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:02:20 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake[?1l>[?2004l
+]2;make]1;makeclang -Wall -Wextra -std=gnu11 -Iinclude -o shell src/shell.c src/parser.c src/exec.c src/jobs.c
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:02:25 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h../shell[?1l>[?2004l
+]2;./shell]1;./shellosh> shell    leep 20
+^Z
+^Z^Z^Z^Z^Z^Z
+
+
+
+
+^[[A^[[A        ^[[A    ^Cosh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m···························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 4m 45s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 01:07:14 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake clean[?1l>[?2004l
+]2;make clean]1;makerm -f shell
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!3 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:07:17 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake[?1l>[?2004l
+]2;make]1;makeclang -Wall -Wextra -std=gnu11 -Iinclude -o shell src/shell.c src/parser.c src/exec.c src/jobs.c
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:07:19 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h../shell[?1l>[?2004l
+]2;./shell]1;./shellosh> sleep 20
+^Z^Cosh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m···························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 2m 50s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 01:10:10 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake clean[?1l>[?2004l
+]2;make clean]1;makerm -f shell
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!3 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:10:13 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmmake[?1l>[?2004l
+]2;make]1;makeclang -Wall -Wextra -std=gnu11 -Iinclude -o shell src/shell.c src/parser.c src/exec.c src/jobs.c
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:10:15 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h../shell[?1l>[?2004l
+]2;./shell]1;./shellosh> shell 20
+osh: command not found: shell
+osh> slee  p 20
+^Z
+^Cosh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m······························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 31s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 01:10:48 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h../shell[?1l>[?2004l
+]2;./shell]1;./shellosh> exit    sleep 20 &
+[bg] 6265
+osh> sleep 20
+^Z
+^Z
+^Z
+^Z^Z^Z^Z^Cosh> exit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m···························[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m took 3m 34s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m at 01:14:29 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h./shellmake    clean[?1l>[?2004l
+]2;make clean]1;makerm -f shell
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!3 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:14:31 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmake clean[10D./shell   [?1l>[?2004l
+]2;./shell]1;./shellzsh: no such file or directory: ./shell
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!3 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m····································[0m[38;5;238m[41m[33m 127[0m[33m[41m[41m[33m х[0m[33m[41m[41m[33m [0m[33m[41m[41m[33m[37m[0m[37m[41m[47m[30m at 01:14:33 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004h./shellmake clean[10D./shell   make   [?1l>[?2004l
+]2;make]1;makeclang -Wall -Wextra -std=gnu11 -Iinclude -o shell src/shell.c src/parser.c src/exec.c src/jobs.c
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell]2;marvinchaudhary@Marvins-MacBook-Air]1;..process-shell]7;file://Marvins-MacBook-Air.local/Users/marvinchaudhary/Desktop/Notes/CS380_Project/CS380-process-shell\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;238m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Desktop/[1m[38;5;254m[44m[38;5;255mNotes[0m[38;5;255m[44m[44m[38;5;254m/CS380_Project/[1m[38;5;254m[44m[38;5;255mCS380-process-shell[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m on [30mmain [30m!2 [30m?4[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m[38;5;238m········································[0m[38;5;238m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m at 01:14:37 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[38;5;238m─╮
+[0m[38;5;238m[49m[39m[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[124C[0m[49m[39m[38;5;238m─╯[39m[126D[?1h=[?2004hmake./shell[?1l>[?2004l
+]2;./shell]1;./shellosh> sleep 20
+^Z

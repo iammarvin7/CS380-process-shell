@@ -1,0 +1,8 @@
+
+pwd
+echo "hello world" > out.txt
+cat < out.txt
+echo -e "one\ntwo\nthree" | wc -l
+sleep 3 &
+
+jobs
